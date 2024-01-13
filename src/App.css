@@ -1,0 +1,32 @@
+.tab{
+  margin-top: 5%;
+  width: 400px;
+  height: 200px;
+  border: 2px solid black;
+  display: flex;
+}
+
+.btn{
+  margin-top: 20px;
+  font-size: 20px;
+  width: 100px;
+  border: 1px solid black;
+  padding: 5px;
+  display: block;
+
+}
+
+.Tabbar{
+ margin-top: 20px;
+  margin-left: 30px;
+  width: 180px;
+  height: 150px;
+  border: 1px solid black;
+  text-align: center;
+}
+.contant{
+  display: none;
+}
+.contant-active{
+  display: block;
+}
